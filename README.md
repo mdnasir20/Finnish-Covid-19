@@ -28,4 +28,4 @@
 
 ## Author
 
-[Alak Dam](http://www.alakdam.com/).
+Nasir Ahmed
