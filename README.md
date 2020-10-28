@@ -28,4 +28,4 @@
 
 ## Author
 
-MOhammad Nasir
+Mohammad Nasir
